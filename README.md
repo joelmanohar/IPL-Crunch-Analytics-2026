@@ -1,4 +1,4 @@
-# IPL Analytics - Phase 2
+# IPL Analytics
 
 This Jupyter notebook handles data cleaning, calculates key metrics, and exports professional visualizations.
 
